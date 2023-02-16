@@ -1,0 +1,192 @@
+#menu-navbar {
+    background: #353a40;
+}
+
+.navbar-brand {
+    margin-left: 3%;
+    margin-right: -10%;
+}
+
+#conf {
+    color: white !important;
+    font-size: large !important;
+    margin-left: -6%;
+}
+
+#conf:hover {
+    text-decoration: none;
+}
+
+.wrap {
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:linear-gradient(to right, rgba(0, 0, 0, 0.574), rgba(0, 0, 0, 0.574), rgba(0, 0, 0, 0.574)), url(../img/ba1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.wrap-texto {
+    color: white;
+    text-align: right;
+    margin-top: 15%;
+    margin-left: 30%;
+    margin-right: 15%;
+}
+
+
+#main {
+    background-image: url(../img/ba1.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.nav-link {
+    color: grey !important;
+}
+
+.nav-link:hover {
+    transition: 1s;
+    color: green !important;
+    text-decoration: underline;
+}
+
+#active {
+    color: white !important;
+}
+
+#ticket {
+    color: green !important;    
+}
+
+#header {
+    margin-top: 30%;
+    margin-left: 45%;
+    margin-right: 10%;
+}
+
+.img-fluid {
+    background:linear-gradient(to bottom, #191c3293, #191c3293, #191c3293);
+}
+
+.card-img {
+    width: auto;
+    height: auto;
+}
+
+#text-header {
+    color: white;
+}
+
+.card-group {
+    padding: 2% 12%;
+}
+
+#oradores-card {
+    margin-left: 2%;
+    border: 0.1mm solid lightgrey;
+}
+
+.card-img-top {
+    height: 80%;
+}
+
+.buttons {
+    margin-left: 2%;
+    align-items: right;
+}
+
+.button1 {
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    height: 10%;
+    width: 25%;
+    border-radius: 6px;
+}
+
+.button1:hover {
+    background-color: #fff;
+    color: black;
+    box-shadow: 1px 1px 1px 1px green;
+}
+
+.button2 {
+    background: #29a744;
+    color: white;
+    height: 10%;
+    width: 25%;
+    border: none;
+    border-radius: 6px;
+}
+
+.button2:hover {
+    background-color: #fff;
+    color: black;
+    box-shadow: 1px 1px 1px 1px green;
+}
+
+.oradores {
+    padding: 2%;
+}
+
+#Honolulu-BsAs {
+    width: 100%;
+    height: auto;
+}
+
+#BsAsOctubre {
+    padding-top: 2%;
+    background: #353a40;
+    text-align: left;
+    color: white;
+}
+
+#text-BsAsOctubre {
+    font-size: 75%;
+}
+
+#conf-bsas:hover {
+    text-decoration: none;
+}
+
+.button4 {
+    width: 100%;
+    border-radius: 6px;
+    background: #96c93e;
+    color: white;
+    border: none;
+    margin-bottom: 2%;
+}
+
+.button4:hover {
+    background-color: #fff;
+    color: black;
+    box-shadow: 1px 1px 1px 1px #96c93e;
+}
+
+#form5{
+    padding: 1%;
+    margin-top: 1%;
+    width: 100%;
+}
+
+.footer {
+    background:linear-gradient(to right, #1c3846, #1d455c, #1d5270);
+    padding: 3%;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer1 {
+    color: white;
+    text-decoration: none;
+}
+
+.card-text2 {
+    margin-bottom: -0.25%;
+}
